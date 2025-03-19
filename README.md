@@ -1,8 +1,9 @@
 ## Hi there 👋
 
-💬 Ask me about good code and functional programming, 3d-printing, neuro-symbolic AI, mnemonic techniques, and of course sci-fi
-🌱 I’m currently learning MCP
- 
+- 💬 Ask me about neuro-symbolic AI
+- 🌱 I’m currently learning MCP and german
+- 😄 Pronouns: he/his
+
 <!--
 **lud77/lud77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
