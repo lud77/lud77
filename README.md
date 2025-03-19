@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 💬 Ask me about neuro-symbolic AI
+- 💬 Ask me about neuro-symbolic AI and procgen!
 - 🌱 I’m currently learning MCP and german
 
 <!--
