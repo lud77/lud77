@@ -2,7 +2,6 @@
 
 - 💬 Ask me about neuro-symbolic AI
 - 🌱 I’m currently learning MCP and german
-- 😄 Pronouns: he/his
 
 <!--
 **lud77/lud77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
