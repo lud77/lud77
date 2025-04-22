@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-- 💬 Ask me about neuro-symbolic AI and procgen!
 - 🌱 I’m currently learning MCP and german
+- 🔭 I’m currently experimenting with structured output in LLMs and hybrid agents
+- 💬 Ask me about neuro-symbolic AI and procgen!
 
 <!--
 **lud77/lud77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
