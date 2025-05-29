@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning MCP
+- 🌱 I’m currently learning MCP and vector databases (PGVector for PostgreSQL)
 - 🔭 I’m currently experimenting with structured output in LLMs and hybrid agents
 - 💬 Ask me about neuro-symbolic AI and procgen!
 
