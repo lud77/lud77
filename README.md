@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🌱 I’m currently learning MCP and vector databases (PGVector for PostgreSQL)
-- 🔭 I’m currently experimenting with structured output in LLMs and hybrid agents
+- 🔭 I’m currently experimenting with LLMs, structured output and the scratchpad technique
 - 💬 Ask me about neuro-symbolic AI and procgen!
 
 <!--
